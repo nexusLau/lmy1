@@ -1,2 +1,2 @@
-def fireFile():
+def fileFile():
     print  'the file name'
